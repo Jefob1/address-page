@@ -4,12 +4,12 @@ import './App.css';
 
 const App = () => {
   const data = [
-    { name: 'Bitcoin', address: 'bc1qztvgpcq9984pag5e7wku96d9ztkl96me8wwkwc' },
+    { name: 'Bitcoin', address: 'bc1qm00mqc5tncxneqtx3jgan33rfkyc3uzhcj8h9w' },
     { name: 'Ethereum', address: '0x02EFC655e76e721787b025663Ab0DFd9E4b528e0' },
     { name: 'Tether USD', address: '0x02EFC655e76e721787b025663Ab0DFd9E4b528e0' },
-    { name: 'Solana', address: 'CZ2WGcAjvxGjiQaqjGGYVepTjhpnHi1EpYzbBV3nTWok' },
+    { name: 'Solana', address: 'rsSoRrv1CtHGLNbee1qY6wioamo2vPGuFc5SB5CAjCa' },
     { name: 'Binance Coin', address: '0x02EFC655e76e721787b025663Ab0DFd9E4b528e0' },
-    { name: 'Ripple', address: '0x02EFC655e76e721787b025663Ab0DFd9E4b528e0' },
+    { name: 'Ripple', address: 'rhWgaP1ziSPmzTnDD2ciyR54f1sGJmBvNH' },
   ];
 
   const [confirmationVisible, setConfirmationVisible] = useState(false);
